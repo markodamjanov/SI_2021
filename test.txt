@@ -1,9 +1,4 @@
-TEST hello
-33
-22
-5
-6
-7
+TEST hello7
 7
 2
 5
